@@ -2,6 +2,7 @@
 Exercice 1: Programme bien resolue aucun problème majeur rencontré
 
 Exercice 2:
+
 Question1: La valeur finale dans la mémoire partagée est 300
 
 Question2: Pour résoudre ce problème nous pouvons utiliser la bibliothèque #include<semaphore.h>
