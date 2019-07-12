@@ -10,7 +10,9 @@ pour bloquer l'utilisation anarchique de la mémoire partager par les trois proc
 Implementation(Voir code)
 
 Exercice 3:
+
 Question1: En ce qui concerne le problème que nous serons amener a resoudre,
 nous pouvons dire qu'on aura besoin de trois processus; le premier servant a arranger les éléments entrer par l'utilisateur, 
 le second permettant de faire la multiplication deux a deux entre les éléments du haut et du bas; et le troisième qui permet de faire la somme des éléments. Nous pouvons aussi avoir un processus qui envoie le résultat a la matrice.
+
 Question2:
