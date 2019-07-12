@@ -1,6 +1,6 @@
 /* un serveur TCP qui reçoit le Bonjour du client 
-*  Auteurs: emery.assogba@gmail.com
-*  Abomey-Calavi 09 Juillet 2019
+*  Auteurs: CHABI Gael 
+*  Email: chabigaelle@gmail.com
 */
 #include <sys/socket.h>
 #include <netinet/in.h>
