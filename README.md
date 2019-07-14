@@ -17,3 +17,17 @@ nous pouvons dire qu'on aura besoin de trois processus; le premier servant a arr
 le second permettant de faire la multiplication deux a deux entre les éléments du haut et du bas; et le troisième qui permet de faire la somme des éléments. Nous pouvons aussi avoir un processus qui envoie le résultat a la matrice.
 
 Question2:
+
+Question3: Implementation(Voir code)
+
+Exercice 4:
+
+Question1: Comment faire le transfert de tous les types de fichiers entre le client et le serveur
+
+Question2:
+
+Question3:(Voir code)
+
+Exercice 5:
+
+Question1:
