@@ -1,3 +1,11 @@
+/*
+ *Programme Realiser Par L'etudiant CHABI Gael
+ * Etudiant Genie Logiciel 2
+ * Exercice 1
+ * chabigaelle@gmail.com 
+*/
+
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
